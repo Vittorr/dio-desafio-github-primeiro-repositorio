@@ -1,0 +1,12 @@
+Anotações sobre a Aula:
+
+Git e GitHub são excelentes para a forma de trabalho mútua.
+
+Deixo minhas anotações aqui sobre:
+
+Git: https://git-scm.com
+GitHub: https://github.com
+
+Extra:
+https://www.markdownguide.org
+
